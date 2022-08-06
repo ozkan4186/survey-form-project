@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    padding-left: 2px;
+    box-sizing: border-box;
+}
+h1{
+    font-size: 5rem;
+}
+p{
+    font-size: 40px;
+}
+.formlar label{
+    font-size: 20px;
+}
+#name{
+    padding: 10px 10px;
+}
+#option{
+    padding: 10px 15px ;
+}
+#textarea{
+    padding: 30px 50px;
+    resize: none;
+    border-radius: 5px;
+}
+#Submit{
+   padding: 5px 5px;
+   border-radius: 5px;
+   font-size: 20px;
+}
